@@ -1,1 +1,1 @@
-# AulaoVue
+# vuejs-masterclass
